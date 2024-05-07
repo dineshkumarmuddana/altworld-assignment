@@ -21,7 +21,7 @@ const LeftHandSide = () => {
           <Text fontWeight={600} fontSize="15px" color="white">New Assignment?</Text>
           <Text fontSize="13px" color="white">Select from pre-defined questions to have a quick turnaround</Text>
           <Flex width="100%" >
-            <Button width="100%" fontSize="14px" >Create the Assignment</Button>
+            <Button width="100%" fontSize="12px" >Create the Assignment</Button>
           </Flex>
         </Stack>
       </Flex>
