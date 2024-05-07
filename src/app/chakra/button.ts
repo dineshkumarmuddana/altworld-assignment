@@ -4,7 +4,7 @@ import { ComponentStyleConfig } from '@chakra-ui/theme'
 export const Button: ComponentStyleConfig = {
     baseStyle: {
         borderRadius: "60px",
-        fontsize: "10pt",
+        fontsize: "8pt",
         fontWeight: "700",
         _focus: {
             boxShadow: "none",
