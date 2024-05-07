@@ -12,10 +12,10 @@ export const Button: ComponentStyleConfig = {
     },
     sizes: {
         sm: {
-            fontsize: "8pt",
+            fontsize: "6pt",
         },
         md: {
-            fontsize: "10pt",
+            fontsize: "8pt",
             // height: "28px",
         },
     },
